@@ -1,1 +1,1 @@
-# jogo-advinha-o-Python
+# jogo-advinhação-Python
